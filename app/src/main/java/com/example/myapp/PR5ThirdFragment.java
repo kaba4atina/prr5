@@ -1,4 +1,4 @@
-package com.example.myapp.fragments.pr5;
+package com.example.myapp;
 
 import android.os.Bundle;
 

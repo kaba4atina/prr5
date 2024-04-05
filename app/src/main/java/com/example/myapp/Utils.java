@@ -1,7 +1,5 @@
 package com.example.myapp;
 
-import com.example.myapp.adapters.Item;
-
 import java.util.ArrayList;
 
 public class Utils {
